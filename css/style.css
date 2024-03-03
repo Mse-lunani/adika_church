@@ -360,7 +360,7 @@ audio {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
     top: 100%;
-	border-top: 2px solid #e5ae49;
+	border-top: 2px solid red;
 	-o-box-shadow: 0px 0px 25px -10px;
     -ms-box-shadow: 0px 0px 25px -10px;
     -moz-box-shadow: 0px 0px 25px -10px;
@@ -666,7 +666,7 @@ audio {
 	transition: all 0.5s;
 }
 .gc_right_menu > ul > li svg:hover #share, .gc_right_menu > ul > li > svg:hover #search, .gc_right_menu > ul > li > svg:hover .menubar{
-	fill:#e5ae49;
+	fill: #e54960;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	-ms-transition: all 0.5s;
@@ -743,7 +743,7 @@ audio {
 	transition: all 0.5s;
 }
 .gc_right_menu > ul > li .gc_share_box > ul > li > a:hover{
-	background-color:#e5ae49;
+	background-color:red;
 	color:#ffffff;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -780,9 +780,9 @@ audio {
     width: 60px;
     height: 60px;
 	color:#ffffff;
-    border: 1px solid #e5ae49;
+    border: 1px solid red;
     border-left: none;
-    background-color: #e5ae49;
+    background-color: red;
     text-align: center;
     padding: 0px;
 	font-size:24px;
@@ -841,8 +841,8 @@ audio {
 }
 .gc_btn:hover{
 	color:#ffffff;
-	background-color:#e5ae49;
-	border:2px solid #e5ae49;
+	background-color:red;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	-ms-transition: all 0.5s;
@@ -870,7 +870,7 @@ audio {
 	width:100%;
 	margin:0px;
 	font-size:30px;
-	color:#e5ae49;
+	color:red;
 	font-family: 'Great Vibes', cursive;
 }
 
@@ -893,7 +893,7 @@ audio {
 	float:left !important;
 	width:160px !important;
 	height:50px !important;
-	background:#e5ae49 !important;
+	background:red !important;
 	font-size:16px !important;
 	letter-spacing:2px !important;
 	font-family: 'Droid Serif', serif;
@@ -901,7 +901,7 @@ audio {
 	text-align:center !important;
 	line-height:45px !important;
 	border-radius:50px !important;
-	border:2px solid #e5ae49 !important;
+	border:2px solid red !important;
 	-webkit-transition: all 0.5s !important;
 	-o-transition: all 0.5s !important;
 	-ms-transition: all 0.5s !important;
@@ -937,9 +937,9 @@ audio {
 	transition: all 0.5s !important;
 }
 .tp-caption .et_slider_btn li:last-child a:hover{
-	background:#e5ae49 !important;
+	background:red !important;
 	color:#ffffff !important;
-	border:2px solid #e5ae49 !important;
+	border:2px solid red !important;
 	-webkit-transition: all 0.5s !important;
 	-o-transition: all 0.5s !important;
 	-ms-transition: all 0.5s !important;
@@ -969,7 +969,7 @@ audio {
 	color:#7a7a7b !important;
 }
 .tparrows:hover:before{
-	color:#e5ae49 !important;
+	color:red !important;
 	opacity:1 !important;
 }
 .bullet-bar.tp-bullets{}
@@ -997,7 +997,7 @@ audio {
     -moz-transition: all 0.5s;
     transition: all 0.5s;}
 .bullet-bar .tp-bullet:hover,.bullet-bar .tp-bullet.selected{
-	background:#e5ae49;
+	background:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1042,7 +1042,7 @@ audio {
 }
 .gc_event_icon_wrapper i{
 	font-size:40px;
-	color:#e5ae49;
+	color:red;
 	
 }
 .gc_event_heading_wrapper{
@@ -1056,7 +1056,7 @@ audio {
 	position:relative;
 }
 .gc_event_heading_wrapper h3:after{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	content:'';
 	display:block;
@@ -1064,7 +1064,7 @@ audio {
 	bottom:-11px;
 }
 .gc_event_heading_wrapper h3:before{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:230px;
 	content:'';
 	display:block;
@@ -1077,7 +1077,7 @@ audio {
 .gc_event_time{
 	width:130px;
 	height:35px;
-	background:#e5ae49;
+	background:red;
 	border-top-right-radius:4px;
 	border-bottom-right-radius:4px;
 }
@@ -1088,7 +1088,7 @@ audio {
 	position:absolute;
 	border-top: 17px solid transparent;
     border-bottom: 16px solid transparent;
-    border-right: 18px solid #e5ae49;
+    border-right: 18px solid red;
     margin-left: -150px;
 }
 .gc_event_time_cont{
@@ -1122,11 +1122,11 @@ audio {
 }
 .gc_user_icon_wrapper i{
 	padding-right:10px;
-	color:#e5ae49;
+	color:red;
 }
 .gc_location_icon_wrapper i{
 	padding-right:10px;
-	color:#e5ae49;
+	color:red;
 	font-size:20px;
 }
 .gc_event_bottom_cont h3 span{
@@ -1177,7 +1177,7 @@ audio {
 	border:2px solid #e1e1e1;
 }
 .gc_event_btn li a:hover{
-	background:#e5ae49;
+	background:red;
 	border:2px solid transparent;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -1264,7 +1264,7 @@ audio {
 	right:0%;
 	left:0%;
 	bottom:0%;
-	background:rgba(229, 174, 73, 0.95);
+	background: rgba(73, 94, 229, 0.95);
 }
 .player_heading_section{
 	float:left;
@@ -1410,7 +1410,7 @@ audio {
 }
 .gc_recent_icon_wrapper h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	padding-top:25px;
 	font-size:30px;
 }
@@ -1423,7 +1423,7 @@ audio {
 .gc_recent_icon_wrapper h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -1434,7 +1434,7 @@ audio {
 .gc_recent_icon_wrapper h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -1531,7 +1531,7 @@ audio {
 	border-top:transparent;
 }
 .gc_recent_slide_img_wrapper:hover .gc_recent_slider_cont_wrapper{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	border-top:transparent;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -1555,7 +1555,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_recent_slider_cont_heading h3 a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1564,7 +1564,7 @@ audio {
 }
 .gc_recent_slider_cont_heading h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:230px;
 	display:block;
 	position: absolute;
@@ -1572,7 +1572,7 @@ audio {
 }
 .gc_recent_slider_cont_heading h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display:block;
 	margin-top:30px;
@@ -1583,7 +1583,7 @@ audio {
 	padding-top:25px;
 }
 .gc_recent_slider_cont p a{
-	color:#e5ae49;
+	color:red;
 }
 .gc_recent_slider_cont h5{
 	font-size:18px;
@@ -1594,7 +1594,7 @@ audio {
 }
 .gc_recent_slider_cont h5 span{
 	font-size:36px;
-	color:#e5ae49;
+	color:red;
 	font-weight:bold;
 }
 .gc_recent_slider_btn ul{
@@ -1623,7 +1623,7 @@ audio {
 	border:2px solid #e1e1e1;
 }
 .gc_recent_slider_btn li a:hover{
-	background:#e5ae49;
+	background:red;
 	border:2px solid transparent;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -1658,7 +1658,7 @@ audio {
 	font-size:30px;
 	padding-top:100px;
 	font-family: 'Great Vibes', cursive;
-    color: #e5ae49;
+    color: red;
 }
 .gc_about_heading h1{
 	font-size:36px;
@@ -1706,7 +1706,7 @@ audio {
 	height:40px;
 	font-size:18px;
 	line-height:33px;
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	position:relative;
 	margin-left:-60px;
@@ -1716,7 +1716,7 @@ audio {
 	content:'';
 	border-left:10px solid transparent;
 	border-right:10px solid transparent;
-	border-top:10px solid #e5ae49;
+	border-top:10px solid red;
 	position:absolute;
 	width:0;
 	height:0;
@@ -1746,7 +1746,7 @@ audio {
 	padding-top:30px;
 }
 .gc_about_heading_wrapper p a{
-	color:#e5ae49;
+	color:red;
 }
 .gc_about_cont_wrapper{
 	margin-top:50px;
@@ -1757,7 +1757,7 @@ audio {
 }
 .gc_about_icons_wrapper i{
 	font-size:20px;
-	color:#e5ae49;
+	color:red;
 	padding-top: 5px;
 }
 .gc_about_icons_cont_wrapper{
@@ -1775,7 +1775,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_about_icons_cont_wrapper h3 a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1814,7 +1814,7 @@ audio {
 	float:left;
 	width:100%;
 	text-align:center;
-	padding-bottom:100px;
+
 }
 .gc_counter_cont_wrapper{
 	float:left;
@@ -1854,7 +1854,7 @@ audio {
 .gc_counter_icon{
 	text-align:center;
 	display:inline-block;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .count-description {
@@ -1876,7 +1876,7 @@ audio {
 .con1, .con2, .con3, .con4{
 	font-family: 'Droid Serif', serif;
 	font-size: 18px;
-	color:#e5ae49;
+	color:red;
 	margin-top:16px;
 	text-transform:uppercase;
 }
@@ -1899,7 +1899,7 @@ audio {
 }
 .gc_com_event_icon_wrapper h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	padding-top:25px;
 	font-size:30px;
 }
@@ -1912,7 +1912,7 @@ audio {
 .gc_com_event_icon_wrapper h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -1923,7 +1923,7 @@ audio {
 .gc_com_event_icon_wrapper h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -2078,7 +2078,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_upcom_slider_wrapper:hover .gc_com_slider_cont_wrapper{
-	background-color:#e5ae49;
+	background-color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -2109,7 +2109,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_upcom_slider_wrapper:hover .gc_event_time_cont i{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -2229,7 +2229,7 @@ audio {
 }
 .gc_testi_slider_wrapper  .owl-theme .owl-nav .owl-prev:hover, .gc_testi_slider_wrapper   .owl-theme .owl-nav .owl-next:hover{
 	background:transparent;
-	color:#e5ae49;
+	color:red;
 }
 .gc_testi_slider_wrapper .owl-theme .owl-dots{
 	position: absolute;
@@ -2253,7 +2253,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_testi_slider_wrapper  .owl-theme .owl-dots .owl-dot.active span, .gc_testi_slider_wrapper  .owl-theme .owl-dots .owl-dot:hover span {
-	background:#e5ae49;
+	background:red;
 	width:30px;
 	height:2px;
 	border-radius:0;
@@ -2286,7 +2286,7 @@ audio {
 }
 .gc_testi_slider_bottom_content_wrapper h4{
 	font-size:16px;
-	color:#e5ae49;
+	color:red;
 	font-style:italic;
 	padding-top:20px;
 	padding-bottom:40px;
@@ -2314,7 +2314,7 @@ audio {
 }
 .gc_filter_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_filter_heading h1{
@@ -2326,7 +2326,7 @@ audio {
 .gc_filter_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -2337,7 +2337,7 @@ audio {
 .gc_filter_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -2532,7 +2532,7 @@ audio {
 #filter li a:after{
 	content:"";
 	position:absolute;
-	border-bottom:1px solid #e5ae49;
+	border-bottom:1px solid red;
 	top:90%;
 	left:0;
 	right:0;
@@ -2547,7 +2547,7 @@ audio {
 #filter li a:before{
 	content:"";
 	position:absolute;
-	border-bottom:1px solid #e5ae49;
+	border-bottom:1px solid red;
 	top:100%;
 	left:0;
 	right:0;
@@ -2607,7 +2607,7 @@ audio {
 	width:175px;
 	height:50px;
 	float:left;
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	text-align:center;
 	line-height:50px;
@@ -2621,17 +2621,17 @@ audio {
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 	letter-spacing:2px;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 }
 .gc_filter_btn li a:hover{
 	background:transparent;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-	color:#e5ae49;
+	color:red;
 }
 /*-- GC filter Wrapper End --*/
 /*-- GC sermons Wrapper Start --*/
@@ -2662,7 +2662,7 @@ audio {
 }
 .gc_serm_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_serm_heading h1{
@@ -2674,7 +2674,7 @@ audio {
 .gc_serm_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -2685,7 +2685,7 @@ audio {
 .gc_serm_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -2768,7 +2768,7 @@ audio {
 }
 .gc_serm_cont_main_wrapper h6{
 	font-size:16px;
-	color:#e5ae49;
+	color:red;
 	font-style:italic;
 	padding-top:30px;
 	-webkit-transition: all 0.5s;
@@ -2791,7 +2791,7 @@ audio {
 }
 .gc_serm_cont_main_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:75px;
 	position:absolute;
 	bottom:-12px;
@@ -2804,7 +2804,7 @@ audio {
 }
 .gc_serm_cont_main_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:135px;
 	position:absolute;
 	bottom:-16px;
@@ -2824,7 +2824,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_serm_cont_main_wrapper p a{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -2905,7 +2905,7 @@ audio {
 }
 .gc_blog_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_blog_heading h1{
@@ -2917,7 +2917,7 @@ audio {
 .gc_blog_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -2928,7 +2928,7 @@ audio {
 .gc_blog_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -3012,7 +3012,7 @@ audio {
 .gc_blog_date{
 	width:60px;
 	height:90px;
-	background:#e5ae49;
+	background:red;
 	text-align:center;
 	border-radius: 32px;
 	border:1px solid transparent;
@@ -3047,7 +3047,7 @@ audio {
 }
 .gc_blog_date_cont_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	position:absolute;
 	bottom:-12px;
@@ -3055,7 +3055,7 @@ audio {
 }
 .gc_blog_date_cont_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:230px;
 	position:absolute;
 	bottom:-16px;
@@ -3108,7 +3108,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_bottom_bog_sec_wrapper li a i{
-	color:#e5ae49;
+	color:red;
 	padding-right:5px;
 }
 .gc_bottom_bog_sec_wrapper li a:hover{
@@ -3138,7 +3138,7 @@ audio {
     left: -28px;
 }
 .gc_blog_post_wrapper:hover{
-	border:1px solid #e5ae49;
+	border:1px solid red;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -3147,7 +3147,7 @@ audio {
 }
 .gc_blog_post_wrapper:hover .gc_blog_date{
 	background:transparent;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -3245,7 +3245,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_client_slider_wrapper .owl-theme .owl-nav .owl-prev:hover, .gc_client_slider_wrapper  .owl-theme .owl-nav .owl-next:hover{
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -3284,7 +3284,7 @@ audio {
 	font-family: 'Droid Serif', serif;
 }
 .gc_client_cont_wrapper p span{
-	color:#e5ae49;
+	color:red;
 }
 .gc_client_img_wrapper{
 	float:left;
@@ -3310,7 +3310,7 @@ audio {
 	color:#ffffff;
 }
 .gc_client_social_wrapper p span{
-	color:#e5ae49;
+	color:red;
 }
 .gc_client_social_wrapper p span:last-child{
 	color:rgba(255, 255, 255, 0.71);
@@ -3366,7 +3366,7 @@ audio {
 }
 .gc_cere_list h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	position:absolute;
 	bottom:-12px;
@@ -3374,7 +3374,7 @@ audio {
 }
 .gc_cere_list h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:170px;
 	position:absolute;
 	bottom:-16px;
@@ -3394,7 +3394,7 @@ audio {
 }
 .gc_cere_list li i{
 	padding-right:10px;
-	color:#e5ae49;
+	color:red;
 }
 .gc_cere_accor h4{
 	font-size:26px;
@@ -3406,7 +3406,7 @@ audio {
 }
 .gc_cere_accor h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	position:absolute;
 	bottom:-12px;
@@ -3414,7 +3414,7 @@ audio {
 }
 .gc_cere_accor h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:170px;
 	position:absolute;
 	bottom:-16px;
@@ -3450,7 +3450,7 @@ audio {
 }
 .accordionFifteen .panel .panel-heading a {	
 	display: block;
-	background: #e5ae49;
+	background: red;
 	padding: 15px 20px;
 	color: #fff;
 	font-weight:400;
@@ -3508,7 +3508,7 @@ audio {
     border-radius: 2px;
     width: 15px;
     height: 15px;
-    color: #e5ae49;
+    color: red;
     line-height: 15px;
 }
 .accordionFifteen .panel .panel-heading a.collapsed:after {
@@ -3591,7 +3591,7 @@ audio {
 }
 .gc_ceremony_heading_cont h1{
 	font-size:40px;
-	color:#e5ae49;
+	color:red;
 }
 .gc_ceremony_btn ul{
 	padding:0;
@@ -3667,10 +3667,10 @@ audio {
     top: 10px;
 }
 .gc_merry_count h2 i{
-	color:#e5ae49;
+	color:red;
 }
 .gc_merry_count h2 span{
-	color:#e5ae49;
+	color:red;
 }
 .gc_merry_count ul{
 	padding:0;
@@ -3681,7 +3681,7 @@ audio {
 	width:165px;
 	height:50px;
 	float:left;
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	text-align:center;
 	line-height:48px;
@@ -3696,11 +3696,11 @@ audio {
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 	letter-spacing:2px;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 }
 .gc_merry_count li a:hover{
 	background:transparent;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -3744,7 +3744,7 @@ audio {
     margin: 50px 0px 50px 0px;
 }
 .gc_video_box h2 span{
-	color:#e5ae49;
+	color:red;
 	font-family: 'Great Vibes', cursive;
 }
 .gc_video_box h2:after {
@@ -3775,7 +3775,7 @@ audio {
 	transition: all 0.5s;
 }
 .gc_video_box p a:hover{
-    color:#e5ae49;
+    color:red;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	-ms-transition: all 0.5s;
@@ -3860,7 +3860,7 @@ audio {
 }
 .gc_partner_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_partner_heading h1{
@@ -3871,7 +3871,7 @@ audio {
 }
 .gc_partner_heading h1:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	position:absolute;
 	bottom:-12px;
@@ -3879,7 +3879,7 @@ audio {
 }
 .gc_partner_heading h1:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:300px;
 	position:absolute;
 	bottom:-16px;
@@ -3980,7 +3980,7 @@ audio {
 .gc_get_box_wrapper{
 	float:left;
 	width:50%;
-	background:#e5ae49;
+	background:red;
 	padding-bottom:60px;
 	padding-top: 50px;
     padding-left: 50px;
@@ -4193,7 +4193,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_footer_social_icon li a:hover{
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -4209,7 +4209,7 @@ audio {
 }
 .gc_footer_news h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:0;
@@ -4218,7 +4218,7 @@ audio {
 }
 .gc_footer_news h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:0;
@@ -4230,7 +4230,7 @@ audio {
 }
 .gc_footer_news_email h3{
 	font-size:16px;
-	color:#e5ae49;
+	color:red;
 	padding-top:20px;
 }
 .gc_footer_news_email input{
@@ -4247,7 +4247,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_footer_news_email input:hover,.gc_footer_news_email input:focus{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -4283,7 +4283,7 @@ audio {
 }
 .gc_footer_ln_cont_wrapper p{
 	font-size:14px;
-	color:#e5ae49;
+	color:red;
 }
 .gc_footer_ul_wrapper li:first-child{
 	margin-top:0;
@@ -4299,7 +4299,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_footer_ul_wrapper li a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -4307,7 +4307,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_footer_ul_wrapper li i{
-	color:#e5ae49;
+	color:red;
 	padding-right:20px;
 }
 .gc_padding_top{
@@ -4322,7 +4322,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_footer_insta_img_wrapper img:hover{
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -4341,7 +4341,7 @@ audio {
 	margin:0;
 }
 .gc_bottom_footer_copy_wrapper a{
-	color:#e5ae49;
+	color:red;
 }
 .gc_bottom_footer_right_wrapper ul{
 	float:right;
@@ -4360,7 +4360,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_bottom_footer_right_wrapper li a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -4375,7 +4375,7 @@ audio {
     z-index: 1;
     top: 0;
     right: 0;
-    background-color: #e5ae49;
+    background-color: red;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -4540,7 +4540,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_main_tittle_side_nav ul li a:hover{
-	color:#e5ae49;
+	color:red;
 	    -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -4548,7 +4548,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_main_tittle_side_nav ul li:last-child{
-	color:#e5ae49;
+	color:red;
 	margin-left:10px;
 }
 .padding_zero{
@@ -4570,7 +4570,7 @@ audio {
 }
 .gc_about_sec_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_about_sec_heading h1{
@@ -4582,7 +4582,7 @@ audio {
 .gc_about_sec_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -4593,7 +4593,7 @@ audio {
 .gc_about_sec_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -4688,7 +4688,7 @@ audio {
 }
 .gc_about_sec_cont_wrapper h2:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -4696,7 +4696,7 @@ audio {
 }
 .gc_about_sec_cont_wrapper h2:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:200px;
 	position:absolute;
 	bottom:-16px;
@@ -4718,7 +4718,7 @@ audio {
 }
 .gc_about_sec_cont_wrapper2 h2:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -4726,7 +4726,7 @@ audio {
 }
 .gc_about_sec_cont_wrapper2 h2:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:200px;
 	position:absolute;
 	bottom:-16px;
@@ -4746,10 +4746,10 @@ audio {
 	color:#00468c;
 }
 .gc_about_count_cont_wrapper:after{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 }
 .gc_about_count_cont_wrapper:before{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 }
 .gc_counter_about_main_wrapper{
 	padding-bottom:50px;
@@ -4830,7 +4830,7 @@ audio {
 .gc_team_about_cont h2:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -4850,7 +4850,7 @@ audio {
 .gc_team_about_cont h2:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -4933,7 +4933,7 @@ audio {
 .tc_twtfd_wrapper{
 	float:left;
 	width:100%;
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	padding-top: 55px;
     padding-bottom: 65px;
@@ -5046,7 +5046,7 @@ audio {
 }
 .gc_causes_category_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_causes_category_heading h1{
@@ -5058,7 +5058,7 @@ audio {
 .gc_causes_category_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -5069,7 +5069,7 @@ audio {
 .gc_causes_category_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -5163,14 +5163,14 @@ audio {
 	background:transparent;
 }	
 .pagination > li:first-child:hover > a{
-	background:#e5ae49;
+	background:red;
 	border:1px solid transparent;
 }
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
     z-index: 2;
     color: #fff;
 	border:1px solid transparent;
-    background-color: #e5ae49;
+    background-color: red;
     border-color: none;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -5180,7 +5180,7 @@ audio {
 }
 .gc_causes_view_tabs .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
 	background:transparent;
-	color:#e5ae49;
+	color:red;
 }
 .gc_causes_view_tabs .nav-pills > li > a{
 	color:#c3c3c3;
@@ -5244,7 +5244,7 @@ audio {
 	border:2px solid #e1e1e1;
 }
 .gc_causes_list_btn li a:hover{
-	background:#e5ae49;
+	background:red;
 	border:2px solid transparent;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -5258,7 +5258,7 @@ audio {
 	float:left;
 }
 .gc_recent_slide_img_wrapper:hover .gc_causes_list_content_weapper{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5405,7 +5405,7 @@ audio {
 }
 .gc_causes_single_slider_bottom_heading h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:230px;
 	display:block;
 	position: absolute;
@@ -5413,7 +5413,7 @@ audio {
 }
 .gc_causes_single_slider_bottom_heading h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display:block;
 	margin-top:30px;
@@ -5441,7 +5441,7 @@ audio {
 }
 .gc_causes_single_contect_heading h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display:block;
 	position: absolute;
@@ -5449,7 +5449,7 @@ audio {
 }
 .gc_causes_single_contect_heading h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display:block;
 	margin-top:30px;
@@ -5478,7 +5478,7 @@ audio {
     margin-top: 20px;
 }
 .gc_causes_single_forms input:hover, .gc_causes_single_forms input:focus{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5503,7 +5503,7 @@ audio {
 	resize:none;
 }
 .gc_causes_single_teatarea textarea:hover, .gc_causes_single_teatarea textarea:focus{
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5519,7 +5519,7 @@ audio {
 	width:175px;
 	height:50px;
 	float:left;
-	background:#e5ae49;
+	background:red;
 	color:#ffffff;
 	text-align:center;
 	line-height:50px;
@@ -5533,17 +5533,17 @@ audio {
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 	letter-spacing:2px;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 }
 .gc_causes_single_form_btn li a:hover{
 	background:transparent;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-	color:#e5ae49;
+	color:red;
 }
 /******************-- CAUSES SINGLE CSS END --****************************/
 
@@ -5581,7 +5581,7 @@ audio {
 }
 .gc_event_index_heading h2{
 	font-family: 'Great Vibes', cursive;
-	color:#e5ae49;
+	color:red;
 	font-size:30px;
 }
 .gc_event_index_heading h1{
@@ -5593,7 +5593,7 @@ audio {
 .gc_event_index_heading h1:after{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	display: block;
     left: 0;
@@ -5604,7 +5604,7 @@ audio {
 .gc_event_index_heading h1:before{
 	content:'';
 	position:absolute;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:140px;
 	display: block;
     left: 0;
@@ -5630,8 +5630,8 @@ audio {
 	margin-top:80px;
 }
 .gc_serm_cont_main_wrapper:hover{
-	background:#e5ae49;
-	border: 1px solid #e5ae49;
+	background:red;
+	border: 1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5753,7 +5753,7 @@ audio {
 .gc_blog_index_date{
 	width:60px;
 	height:90px;
-	background:#e5ae49;
+	background:red;
 	text-align:center;
 	border-radius: 32px;
 	border:1px solid transparent;
@@ -5788,7 +5788,7 @@ audio {
 }
 .gc_blog_index_date_cont_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:100px;
 	position:absolute;
 	bottom:-12px;
@@ -5796,7 +5796,7 @@ audio {
 }
 .gc_blog_index_date_cont_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:230px;
 	position:absolute;
 	bottom:-16px;
@@ -5852,7 +5852,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_bottom_bog_index_sec_wrapper li a i{
-	color:#e5ae49;
+	color:red;
 	padding-right:5px;
 }
 .gc_bottom_bog_index_sec_wrapper li a:hover{
@@ -5882,7 +5882,7 @@ audio {
     left: -28px;
 }
 .gc_blog_index_post_wrapper:hover{
-	border:1px solid #e5ae49;
+	border:1px solid red;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5891,7 +5891,7 @@ audio {
 }
 .gc_blog_index_post_wrapper:hover .gc_blog_index_date{
 	background:transparent;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -5978,7 +5978,7 @@ audio {
 .gc_blog_letest_week_wrapper{
 	float:left;
 	width:100%;
-	background:#e5ae49;
+	background:red;
 	text-align:center;
 	padding-top:50px;
 	padding-bottom:50px;
@@ -6037,7 +6037,7 @@ audio {
 }
 .gc_right_blog_search_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6045,7 +6045,7 @@ audio {
 }
 .gc_right_blog_search_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6089,7 +6089,7 @@ audio {
 }
 .gc_right_blog_category_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6097,7 +6097,7 @@ audio {
 }
 .gc_right_blog_category_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6120,7 +6120,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_right_blog_category_list_wrapper li a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6128,7 +6128,7 @@ audio {
     transition: all 0.5s;
 }
 .gc_right_blog_category_list_wrapper li i{
-	color:#e5ae49;
+	color:red;
 	padding-right:20px;
 }
 .gc_right_blog_news_wrapper{
@@ -6143,7 +6143,7 @@ audio {
 }
 .gc_right_blog_news_wrapper h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6151,7 +6151,7 @@ audio {
 }
 .gc_right_blog_news_wrapper h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6169,7 +6169,7 @@ audio {
 }
 .gc_right_blog_sermons_wrapper h3:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6177,7 +6177,7 @@ audio {
 }
 .gc_right_blog_sermons_wrapper h3:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6225,7 +6225,7 @@ audio {
 }
 .gc_right_blog_insta_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6233,7 +6233,7 @@ audio {
 }
 .gc_right_blog_insta_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6251,7 +6251,7 @@ audio {
 }
 .gc_right_blog_cloud_wrapper h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6259,7 +6259,7 @@ audio {
 }
 .gc_right_blog_cloud_wrapper h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6288,7 +6288,7 @@ audio {
 }
 .gc_blog_cloud_side_menu li a:hover{
 	border:2px solid transparent;
-	background:#e5ae49;
+	background:red;
 	color:#fff;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -6335,9 +6335,9 @@ audio {
     border-radius: 100%;
 }
 .sermon_link_left li a:hover{
-	background:#e5ae49;
+	background:red;
 	color:#fff;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6363,7 +6363,7 @@ audio {
     border-radius: 100%;
 }
 .sermon_link_right li a:hover{
-	color:#e5ae49;
+	color:red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6394,7 +6394,7 @@ audio {
 	content: '';
     width: 70px;
     height: 90%;
-    background: #e5ae49;
+    background: red;
     position: absolute;
     left: -70px;
     top: 5%;
@@ -6403,7 +6403,7 @@ audio {
 	content: '';
     width: 70px;
     height: 90%;
-    background: #e5ae49;
+    background: red;
     position: absolute;
     right: -70px;
     top: 5%;
@@ -6518,7 +6518,7 @@ audio {
 	margin-top:5px;
 }
 .le_es_slider_bottom_left_content_wrapper li i{
-	color:#e5ae49;
+	color:red;
 	font-size:18px;
 }
 .le_es_slider_bottom_left_content_wrapper p{
@@ -6547,7 +6547,7 @@ audio {
 }
 .le_es_slider_bottom_right_content_wrapper li a:hover{
 	color:#fff;
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6607,13 +6607,13 @@ audio {
 	text-transform:capitalize;
 	font-size:46px;
 	font-family: 'Droid Serif', serif;
-	color:#e5ae49;
+	color:red;
 	margin:0px;
 }
 #clockdiv{
     float: left;
     width: 100%;
-    color: #e5ae49;
+    color: red;
     display: inline-block;
     text-align: center;
     font-size: 48px;
@@ -6659,7 +6659,7 @@ font-family: 'Droid Serif', serif;
 	padding-bottom:60px;
 }
 .blog_single_admin_sec{
-	background:#e5ae49;
+	background:red;
 	float:left;
 	width:100%;
 	padding-top:50px;
@@ -6712,7 +6712,7 @@ font-family: 'Droid Serif', serif;
 	margin-left:150px;
 }
 .blog_single_comment_heading span{
-	color:#e5ae49;
+	color:red;
 }
 .blog_comment1_cont h3{
 	font-size:22px;
@@ -6726,12 +6726,12 @@ font-family: 'Droid Serif', serif;
 	padding-right:10px;
 }
 .blog_comment1_cont span{
-	color:#e5ae49;
+	color:red;
 	font-size:16px;
 	font-style: italic;
 }
 .blog_comment1_cont span a{
-	color:#e5ae49;
+	color:red;
 	text-decoration:underline;
 }
 .blog_comment1_cont p{
@@ -6759,7 +6759,7 @@ font-family: 'Droid Serif', serif;
 }
 .blog_single_comment_heading h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6767,7 +6767,7 @@ font-family: 'Droid Serif', serif;
 }
 .blog_single_comment_heading h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
@@ -6806,7 +6806,7 @@ font-family: 'Droid Serif', serif;
 	top:-75px;
 }
 .contect_form1 input:hover, .contect_form1 input:focus, .contect_form2 input:hover, .contect_form2 input:focus{
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6854,7 +6854,7 @@ font-family: 'Droid Serif', serif;
 	resize:none;
 }
 .contect_form4 textarea:hover, .contect_form4 textarea:focus{
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -6873,7 +6873,7 @@ font-family: 'Droid Serif', serif;
 	float:left;
 	color:#fff;
 	text-transform:uppercase;
-	background:#e5ae49;
+	background:red;
 	text-align:center;
 	line-height:45px;
 	border-radius:50px;
@@ -6889,13 +6889,13 @@ font-family: 'Droid Serif', serif;
 }
 .contect_btn li a:hover{
 	background:transparent;
-	border:2px solid #e5ae49;
+	border:2px solid red;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-	color:#e5ae49;
+	color:red;
 }
 .gc_blog_single_form_heading{
 	float:left;
@@ -6910,7 +6910,7 @@ font-family: 'Droid Serif', serif;
 }
 .gc_blog_single_form_heading h4:after{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:40px;
 	position:absolute;
 	bottom:-12px;
@@ -6918,7 +6918,7 @@ font-family: 'Droid Serif', serif;
 }
 .gc_blog_single_form_heading h4:before{
 	content:'';
-	border:1px solid #e5ae49;
+	border:1px solid red;
 	width:80px;
 	position:absolute;
 	bottom:-16px;
