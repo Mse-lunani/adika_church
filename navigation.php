@@ -29,7 +29,7 @@
                                 <div class="row">
                                     <div class="col-xs-6 col-sm-6">
                                         <div class="gc_logo">
-                                            <a href="index.php"><img src="images/content/logo.jpeg" style="width: 200px" alt="Logo" title="Grace Church"></a>
+                                            <a href="index.php"><img src="images/content/logo.jpeg" style="width: 100px" alt="Logo" title="Grace Church"></a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-sm-6">
