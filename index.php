@@ -636,7 +636,7 @@ include_once  'navigation.php';
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 				<div class="gc_about_img_wrapper">
-					<img src="images/content/about_img.jpg" alt="about_img" class="zoom image img-responsive">
+					<img src="images/content/pastor.jpeg" alt="about_img" class="zoom image img-responsive">
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
