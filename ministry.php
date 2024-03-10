@@ -75,7 +75,7 @@ include_once 'navigation.php';
                             <div class="content"><div class="title"> love in action to community</div>
                         </li>
                         <li style="--cardColor:#162d59">
-                            <div class="content"><div class="title">fellowships for men and ladies</div>
+                            <div class="content"><div class="title">Fellowship for men and ladies</div>
                         </li>
                         <li style="--cardColor:#fc374e">
                             <div class="content"><div class="title">a weekly visitation program</div>

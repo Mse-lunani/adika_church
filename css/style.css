@@ -871,7 +871,7 @@ audio {
 	margin:0px;
 	font-size:30px;
 	color:#fc374e;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 }
 
 /*-- GC slider Css Start --*/
@@ -1409,7 +1409,7 @@ audio {
 	display:inline-block;
 }
 .gc_recent_icon_wrapper h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	padding-top:25px;
 	font-size:30px;
@@ -1667,10 +1667,29 @@ audio {
 .gc_about_img_wrapper{
 	margin-top:100px;
 }
+.rel{
+    position: relative;
+}
+.caption{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    background: #0b0b0b;
+    padding: 10px;
+    opacity: 0.8;
+}
+.caption h3{
+    font-size: 20px;
+    color: #fc374e;
+
+}
 .gc_about_heading h2{
 	font-size:30px;
 	padding-top:100px;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
     color: #fc374e;
 }
 .gc_about_heading h1{
@@ -1911,7 +1930,7 @@ audio {
 	display:inline-block;
 }
 .gc_com_event_icon_wrapper h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	padding-top:25px;
 	font-size:30px;
@@ -2282,7 +2301,7 @@ audio {
 .gc_testi_slider_content_wrapper h2{
 	color:#ffffff;
 	font-size:30px;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	float:left;
 }
 .gc_testi_slider_logo_wrapper{
@@ -2326,7 +2345,7 @@ audio {
 	display:inline-block;
 }
 .gc_filter_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -2674,7 +2693,7 @@ audio {
 	display:inline-block;
 }
 .gc_serm_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -2917,7 +2936,7 @@ audio {
 	display:inline-block;
 }
 .gc_blog_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -3598,7 +3617,7 @@ audio {
 	display:inline-block;
 }
 .gc_ceremony_heading_cont h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	font-size:30px;
 	color:#ffffff;
 }
@@ -3758,7 +3777,7 @@ audio {
 }
 .gc_video_box h2 span{
 	color:#fc374e;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 }
 .gc_video_box h2:after {
     content: "";
@@ -3872,7 +3891,7 @@ audio {
 	padding-bottom:100px;
 }
 .gc_partner_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -4582,7 +4601,7 @@ audio {
 	display:inline-block;
 }
 .gc_about_sec_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -5057,7 +5076,7 @@ audio {
 	display:inline-block;
 }
 .gc_causes_category_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -5592,7 +5611,7 @@ audio {
 	display:inline-block;
 }
 .gc_event_index_heading h2{
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 	color:#fc374e;
 	font-size:30px;
 }
@@ -6611,7 +6630,7 @@ audio {
 	font-size:30px;
 	color:#00468c;
 	margin:0px;
-	font-family: 'Great Vibes', cursive;
+	/*font-family: 'Great Vibes', cursive;*/
 }
 .wd_center_words h2{
 	display:inline-block;

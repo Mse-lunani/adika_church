@@ -32,11 +32,16 @@ include_once 'navigation.php';
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<div class="gc_about_sec_slider_wrapper">
+				<div class="gc_about_sec_slider_wrapper rel">
 
 
 					  <img src="images/content/founder.jpeg" class="img-responsive" alt="story_img"/>
-
+                        <div class="caption">
+                            <h3>Founders and Lead Pastors</h3>
+                            <p>
+                                George and Susan Mamboleo
+                            </p>
+                        </div>
 
 
 				</div>

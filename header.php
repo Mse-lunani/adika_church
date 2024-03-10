@@ -15,7 +15,7 @@ Purchase:
 <!-- Mirrored from www.webstrot.com/html/gracechurch/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Mar 2024 05:29:28 GMT -->
 <head>
     <meta charset="utf-8" />
-    <title>Antioch Community Fellowships</title>
+    <title>Antioch Community Fellowship</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name="description"  content="Grace Church"/>
     <meta name="keywords" content="Grace Church, Marriage, Event, Temple, function" />

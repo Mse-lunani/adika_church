@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="gc_bottom_footer_copy_wrapper">
-                <p>Copyright © 2022 <a href="#">ACF Antioch Community Fellowships (ACF) </a>. All rights reserved.</p>
+                <p>Copyright © 2022 <a href="#">ACF Antioch Community Fellowship (ACF) </a>. All rights reserved.</p>
             </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">

@@ -10,7 +10,7 @@ include_once  'navigation.php';
 <ul>	<!-- SLIDE  -->
 	<li data-index="rs-968" data-transition="brightnesscross" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="images/header/slider_img.jpg"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+		<img src="images/header/bg.png"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 		<div id="rrzm_968" class="rev_row_zone rev_row_zone_middle" style="z-index: 11;">
 
@@ -120,7 +120,7 @@ include_once  'navigation.php';
 			data-paddingleft="[0,0,0,0]"
 
 			style="z-index: 8; width:100%; white-space: normal; font-size: 40px; line-height: 90px; font-weight: 900;  display: block; text-transform:uppercase; font-family: 'Raleway', sans-serif;">
-            Antioch Community <br> Fellowships
+            Antioch Community <br> Fellowship
 			</div>
 			
 			
@@ -176,7 +176,7 @@ include_once  'navigation.php';
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 14; min-width: 100%px; max-width: 100%px; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato';">
+			style="z-index: 14; min-width: 100%; max-width: 100%; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato';">
 			<div class="et_slider_btn">
 				<ul>
 					<li><a href="#">DONATE</a></li>
@@ -197,7 +197,7 @@ include_once  'navigation.php';
 	<!-- SLIDE  -->
 	<li data-index="rs-969" data-transition="brightnesscross" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="images/header/slider_img.jpg"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+		<img src="images/header/bg.png"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 		<div id="rrzm_969" class="rev_row_zone rev_row_zone_middle" style="z-index: 11;">
 
@@ -363,7 +363,7 @@ include_once  'navigation.php';
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 14; min-width: 100%px; max-width: 100%px; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato'; ">
+			style="z-index: 14; min-width: 100%; max-width: 100%; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato'; ">
 			<div class="et_slider_btn" style="text-align:center;">
 				<ul style="display:inline-block;">
 					<li><a href="#">DONATE</a></li>
@@ -386,7 +386,7 @@ include_once  'navigation.php';
 	<!-- SLIDE  -->
 	<li data-index="rs-970" data-transition="brightnesscross" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="images/header/slider_img.jpg"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+		<img src="images/header/bg.png"  alt=""  data-lazyload="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 		<div id="rrzm_970" class="rev_row_zone rev_row_zone_middle" style="z-index: 11;">
 			<div class="tp-caption   rs-parallaxlevel-4" 
@@ -550,7 +550,7 @@ include_once  'navigation.php';
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 14; min-width: 100%px; max-width: 100%px; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato';">
+			style="z-index: 14; min-width: 100%; max-width: 100%; white-space: normal;  line-height: 20px; font-weight: 400; color: #ffffff;  display: block; font-family: 'Lato';">
 			<div class="et_slider_btn" style="text-align:right;">
 				<ul style="display:inline-block;">
 					<li><a href="#">DONATE</a></li>
@@ -592,7 +592,7 @@ include_once  'navigation.php';
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 							<div class="gc_event_bottom_cont">
                                 <p>
-                                    Antioch Community Fellowships (ACF) is an evangelical,
+                                    Antioch Community Fellowship (ACF) is an evangelical,
                                     non-denominational congregation, declaring the whole counsel of God. Nothing we do is as important as following Jesus' words in Matthew 24:14
                                 </p>
 
@@ -635,8 +635,12 @@ include_once  'navigation.php';
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-				<div class="gc_about_img_wrapper">
+				<div class="gc_about_img_wrapper rel">
 					<img src="images/content/pastor.jpeg" alt="about_img" class="zoom image img-responsive">
+                    <div class="caption">
+                        <h3>Trustee Acf kenya</h3>
+                        <p>Bishop wilson mamboleo</p>
+                    </div>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -651,7 +655,7 @@ include_once  'navigation.php';
 						</div>
 					</div>
 					<p>
-                        ACF Antioch Community Fellowships (ACF) is a growing of Fellowships where:
+                        ACF Antioch Community Fellowship (ACF) is a growing of Fellowship where:
 
                     </p>
 				</div>
