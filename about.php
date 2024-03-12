@@ -36,7 +36,7 @@ include_once 'navigation.php';
 
 
 					  <img src="images/content/founder.jpeg" class="img-responsive" alt="story_img"/>
-                        <div class="caption">
+                        <div class="caption_custom">
                             <h3>Founders and Lead Pastors</h3>
                             <p>
                                 George and Susan Mamboleo

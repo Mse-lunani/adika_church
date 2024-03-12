@@ -1686,6 +1686,25 @@ audio {
     color: #fc374e;
 
 }
+.caption_custom{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    text-align: center;
+    background: #0b0b0b;
+    padding: 10px;
+    opacity: 0.8;
+}
+.caption_custom h3{
+    font-size: 1rem;
+    color: #fc374e;
+
+}
+.caption_custom p {
+    font-size: 0.5 rem;
+}
+
 .gc_about_heading h2{
 	font-size:30px;
 	padding-top:100px;
