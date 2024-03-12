@@ -1672,9 +1672,9 @@ audio {
 }
 .caption{
     position: absolute;
-    bottom: 10px;
+    bottom: 0;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%);
     color: #fff;
     text-align: center;
     background: #0b0b0b;
@@ -4542,7 +4542,7 @@ audio {
 	left:0%;
 	right:0%;
 	bottom:0%;
-	background:rgba(0,0,0,0.7);
+	background:rgba(0,0,0);
 }
 .gc_main_tittle_heading h2{
 	font-size:36px;
