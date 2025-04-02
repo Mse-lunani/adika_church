@@ -28,7 +28,7 @@ include_once 'navigation.php';
                     <div class="gc_about_sec_heading_wrapper">
                         <div class="gc_about_sec_heading">
                             <h2>About Our Ministries</h2>
-                            <h1>Welcome to Grace Church</h1>
+                            <h1>Welcome to ACF Church</h1>
                         </div>
                     </div>
                 </div>
